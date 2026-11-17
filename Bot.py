@@ -91,8 +91,8 @@ def notify_all_admins(text, parse_mode="HTML", reply_markup=None):
 
 # Bakong KHQR
 BAKONG_TOKEN       = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXJjb2pMZm1lYzJNY1GQ2NDAyYiJvJiJvJjkuSWJXi03NDQzNDQzNTIzNzFNaHptNGxDbTYiLCJpc3MiOiJCYWtvbmcifQ.eyJhaGNvdW50X2lkIjoibW9uX3NhbW5hbmdAYmtydCIsImRhdGVfaXNzdWVkIjoiMTc2MzgyOTc1MCIsImV4cGlyZXNfYXQiOjE4MjkyMzg5NTB9"
-BANK_ACCOUNT       = "samnang_mon@bkrt"
-MERCHANT_NAME      = "PU BM"
+BANK_ACCOUNT       = "mon_samnang@bkrt"
+MERCHANT_NAME      = "SMM Boost PRO"
 MERCHANT_CITY      = "Phnom Penh"
 
 DEPOSIT_EXPIRE_SEC = 300   # 5 នាទី
